@@ -1,3 +1,3 @@
 # Basic-Portfolio
  To visit use the link mentioned :
-    https://nikhil-duttaroy.netlify.app/
+    https://simple-portfolio-design.netlify.app
